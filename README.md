@@ -28,7 +28,15 @@
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
 ![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
-![React]
+![React](https://img.shields.io/badge/-React&nbsp;Js-000000?style=for-the-badge&logo=react)
+![Next](https://img.shields.io/badge/-Next&nbsp;Js-000000?style=for-the-badge&logo=vercel)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
+![TailwindCss](https://img.shields.io/badge/-Tailwind-000000?style=for-the-badge&logo=Tailwindcss)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=redux)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=for-the-badge&logo=firebase)
+![BootStrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap)
+![MaterialUI](https://img.shields.io/badge/-Material&nbsp;UI-000000?style=for-the-badge&logo=mui)
+![Atom](https://img.shields.io/badge/-Atom-000000?style=for-the-badge&logo=atom)
 </br></br></br></br>
 
 
