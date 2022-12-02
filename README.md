@@ -37,7 +37,7 @@
 ![BootStrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap)
 ![MaterialUI](https://img.shields.io/badge/-Material&nbsp;UI-000000?style=for-the-badge&logo=mui)
 ![Atom](https://img.shields.io/badge/-Atom-000000?style=for-the-badge&logo=atom)
-![Node](https://img.shields.io/badge/-Node&nbsp;Js-000000?style=for-the-badge&logo=node)
+![Node Js](https://img.shields.io/badge/-Node&nbsp;Js-000000?style=for-the-badge&logo=node)
 </br></br></br></br>
 
 
