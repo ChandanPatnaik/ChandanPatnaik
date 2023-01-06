@@ -46,9 +46,9 @@
 
   <p align="center">
     <a href="https://www.linkedin.com/in/chandan-patnaik/" alt="Linkedin"><img src="https://skillicons.dev/icons?i=linkedin" height="25" width="50"></a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/chandankumar.patnaik.12/" alt="Facebook"><img src="https://skillicons.dev/icons?i=facebook" height="25" width="50"></a>&nbsp;&nbsp;
+<!--   <a href="https://www.facebook.com/chandankumar.patnaik.12/" alt="Facebook"><img src="https://skillicons.dev/icons?i=facebook" height="25" width="50"></a>&nbsp;&nbsp; -->
   <a href="https://www.instagram.com/_rudra_patnaik/" alt="Facebook"><img src="https://skillicons.dev/icons?i=instagram" height="25" width="50"></a>&nbsp;&nbsp;
-    <a href="chandanpatnaik81@gmail.com" alt="Contact me"><img src="https://skillicons.dev/icons?i=gmail" height="30" width="25"></a>&nbsp;&nbsp;
+<!--     <a href="chandanpatnaik81@gmail.com" alt="Contact me"><img src="https://skillicons.dev/icons?i=gmail" height="30" width="25"></a>&nbsp;&nbsp; -->
   </p>
 <p align='center'> <img aling='right' src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76119964146e5c07f06f065563bbae75d60b9831fc1c&rid=giphy.gif&ct=g" width="350" /> </p>
 
