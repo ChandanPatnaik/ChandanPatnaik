@@ -1,6 +1,6 @@
 ### <h1>Hi, there <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> I'm Chandan Ku. Patnaik! 
 
-<h3 align="center">🚀 Frontend Developer | Type Script | Open Source | Devops | Next Js 🚀</h3>
+<h3 align="center">🚀 Full Stack Web Developer | Type Script | Open Source | Devops | Next Js 🚀</h3>
 
 <img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
  
@@ -20,8 +20,15 @@
 # *I am willing to collaborate as a team player building better code.*
 
 ### <h3> 💻 Languages and Tools </h3> </br>
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
+<!-- ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5) -->
+<p align="center">
+ <img align="center" src="https://skillicons.dev/icons?i=html,css,c,js,git,github,linux,visualstudio,react,nextjs,typescript,tailwind,redux,bootstrap" >
+
+</p>
+<p align="center">
+ <img align="center" src="https://skillicons.dev/icons?i=atom,materialui,nodejs,mongodb,express,python,vercel,firebase" >
+ </p>
+<!-- ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
@@ -37,7 +44,7 @@
 ![BootStrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap)
 ![MaterialUI](https://img.shields.io/badge/-Material&nbsp;UI-000000?style=for-the-badge&logo=mui)
 ![Atom](https://img.shields.io/badge/-Atom-000000?style=for-the-badge&logo=atom)
-![Node Js](https://img.shields.io/badge/-Node&nbsp;Js-000000?style=for-the-badge&logo=node)
+![Node Js](https://img.shields.io/badge/-Node&nbsp;Js-000000?style=for-the-badge&logo=node) -->
 </br></br></br></br>
 
 
@@ -45,9 +52,9 @@
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/chandan-patnaik/" alt="Linkedin"><img src="https://skillicons.dev/icons?i=linkedin"  height="25" width="30"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/chandan-patnaik/" alt="Linkedin"><img src="https://skillicons.dev/icons?i=linkedin"  height="30" width="30"></a>&nbsp;&nbsp;
 <!--   <a href="https://www.facebook.com/chandankumar.patnaik.12/" alt="Facebook"><img src="https://skillicons.dev/icons?i=facebook" height="25" width="50"></a>&nbsp;&nbsp; -->
-  <a href="https://www.instagram.com/_rudra_patnaik/" alt="Facebook"><img src="https://skillicons.dev/icons?i=instagram" height="25" width="50"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_rudra_patnaik/" alt="Facebook"><img src="https://skillicons.dev/icons?i=instagram" height="30" width="30"></a>&nbsp;&nbsp;
 <!--     <a href="chandanpatnaik81@gmail.com" alt="Contact me"><img src="https://skillicons.dev/icons?i=gmail" height="30" width="25"></a>&nbsp;&nbsp; -->
   </p>
 <p align='center'> <img aling='right' src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76119964146e5c07f06f065563bbae75d60b9831fc1c&rid=giphy.gif&ct=g" width="350" /> </p>
