@@ -45,7 +45,7 @@
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/chandan-patnaik/" alt="Linkedin"><img src="https://skillicons.dev/icons?i=linkedin" height="25" width="50"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/chandan-patnaik/" alt="Linkedin"><img src="https://skillicons.dev/icons?i=linkedin" ></a>&nbsp;&nbsp;
 <!--   <a href="https://www.facebook.com/chandankumar.patnaik.12/" alt="Facebook"><img src="https://skillicons.dev/icons?i=facebook" height="25" width="50"></a>&nbsp;&nbsp; -->
   <a href="https://www.instagram.com/_rudra_patnaik/" alt="Facebook"><img src="https://skillicons.dev/icons?i=instagram" height="25" width="50"></a>&nbsp;&nbsp;
 <!--     <a href="chandanpatnaik81@gmail.com" alt="Contact me"><img src="https://skillicons.dev/icons?i=gmail" height="30" width="25"></a>&nbsp;&nbsp; -->
