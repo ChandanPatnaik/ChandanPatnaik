@@ -46,7 +46,7 @@
 
   <p align="center">
     <a href="https://www.linkedin.com/in/chandan-patnaik/" alt="Linkedin"><img src="https://skillicons.dev/icons?i=linkedin" height="25" width="50"></a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/chandankumar.patnaik.12/" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1024px-Facebook_Logo_(2019).png" height="25" width="25"></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/chandankumar.patnaik.12/" _target="blank" alt="Facebook"><img src="https://skillicons.dev/icons?i=facebook" height="25" width="50"></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/_rudra_patnaik/" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="25" width="25"></a>&nbsp;&nbsp;
     <a href="chandanpatnaik81@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="25"></a>&nbsp;&nbsp;
   </p>
