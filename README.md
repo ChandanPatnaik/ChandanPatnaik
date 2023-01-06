@@ -45,7 +45,7 @@
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/chandan-patnaik/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="25" width="25"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/chandan-patnaik/" alt="Linkedin"><img src="https://www.flaticon.com/free-icon/linkedin_2504923?term=linkedin+logo&page=1&position=12&origin=search&related_id=2504923" height="25" width="25"></a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/chandankumar.patnaik.12/" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1024px-Facebook_Logo_(2019).png" height="25" width="25"></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/_rudra_patnaik/" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="25" width="25"></a>&nbsp;&nbsp;
     <a href="chandanpatnaik81@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="25"></a>&nbsp;&nbsp;
