@@ -28,26 +28,11 @@
 <p align="center">
  <img align="center" src="https://skillicons.dev/icons?i=atom,materialui,nodejs,mongodb,express,python,vercel,firebase" >
  </p>
-<!-- ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
-![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
-![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
-![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
-![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
-![React](https://img.shields.io/badge/-React&nbsp;Js-000000?style=for-the-badge&logo=react)
-![Next](https://img.shields.io/badge/-Next&nbsp;Js-000000?style=for-the-badge&logo=vercel)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
-![TailwindCss](https://img.shields.io/badge/-Tailwind-000000?style=for-the-badge&logo=Tailwindcss)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=redux)
-![Firebase](https://img.shields.io/badge/-Firebase-000000?style=for-the-badge&logo=firebase)
-![BootStrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap)
-![MaterialUI](https://img.shields.io/badge/-Material&nbsp;UI-000000?style=for-the-badge&logo=mui)
-![Atom](https://img.shields.io/badge/-Atom-000000?style=for-the-badge&logo=atom)
-![Node Js](https://img.shields.io/badge/-Node&nbsp;Js-000000?style=for-the-badge&logo=node) -->
-</br></br></br></br>
+</br></br></br>
 
-
+<p align="center">if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈</p>
+<p  align="center" >
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a><p/>
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
