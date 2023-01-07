@@ -17,7 +17,7 @@
 
  <p>
  
-# *I am willing to collaborate as a team player building better code.*
+## <p align="center">I am willing to collaborate as a team player building better code.</p>
 
 ### <h3> 💻 Languages and Tools </h3> </br>
 <!-- ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5) -->
