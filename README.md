@@ -12,7 +12,7 @@
   - 💼 &nbsp; I’m currently working on Full Stack Development projects.
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
   - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.
-  - 💬 &nbsp; Ask me about **Technology, Troubleshooting, Space Science, Black Holes, Psychology, books.**
+  - 💬 &nbsp; Ask me about **Technology, Space Science, Black Holes, Psychology, books.**
   - ⚡ &nbsp; Fun fact: **The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.**
 
  <p>
