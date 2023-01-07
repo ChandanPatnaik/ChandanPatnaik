@@ -22,11 +22,11 @@
 ### <h3> 💻 Languages and Tools </h3> </br>
 <!-- ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5) -->
 <p align="center">
- <img align="center" src="https://skillicons.dev/icons?i=html,css,c,js,git,github,linux,visualstudio,react,nextjs,typescript,tailwind,redux,bootstrap" >
+ <img align="center" src="https://skillicons.dev/icons?i=c,js,git,github,linux,visualstudio,react,nextjs,typescript,tailwind,redux,bootstrap" >
 
 </p>
 <p align="center">
- <img align="center" src="https://skillicons.dev/icons?i=atom,materialui,nodejs,mongodb,express,python,vercel,firebase" >
+ <img align="center" src="https://skillicons.dev/icons?i=html,atom,materialui,nodejs,mongodb,express,python,vercel,firebase,css" >
  </p>
 </br></br></br>
 
