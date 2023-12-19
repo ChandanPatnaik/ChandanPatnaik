@@ -22,7 +22,7 @@
 ### <h3> 💻 Languages and Tools </h3> </br>
 <!-- ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5) -->
 <p align="center">
- <img align="center" src="https://skillicons.dev/icons?i=c,js,git,github,linux,visualstudio,react,nextjs,typescript,tailwind,redux" >
+ <img align="center" src="https://skillicons.dev/icons?i=css,js,typescript,react,nextjs,tailwind,materialui,redux,firebase,nodejs,express,mongodb,prisma,aws,git,github,linux,visualstudio" >
 
 </p>
 <p align="center">
