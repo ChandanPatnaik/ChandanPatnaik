@@ -38,8 +38,6 @@
 
   <p align="center">
     <a href="https://www.linkedin.com/in/chandan-patnaik/" alt="Linkedin"><img src="https://skillicons.dev/icons?i=linkedin"  height="30" width="30"></a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/chandankumar.patnaik.12/" alt="Facebook"><img src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" height="30" width="30"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/_rudra_patnaik/" alt="Facebook"><img src="https://skillicons.dev/icons?i=instagram" height="30" width="30"></a>&nbsp;&nbsp;
-    <a href="mailto:chandanpatnaik81@gmail.com" alt="Contact me"><img src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" height="30" width="30"></a>&nbsp;&nbsp;
+    <a href="mailto:chandanpatnaik81@gmail.com" alt="Contact me"><img src="https://skillicons.dev/icons?i=gmail" height="30" width="30"></a>&nbsp;&nbsp;
   </p>
 <p align='center'> <img aling='right' src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76119964146e5c07f06f065563bbae75d60b9831fc1c&rid=giphy.gif&ct=g" width="350" /> </p>
