@@ -30,14 +30,15 @@
 </p>
 </br></br></br>
 
-<p align="center" target="_blank">If you like what i do, maybe consider buying me a coffee. </p>
+<!-- <p align="center" target="_blank">If you like what i do, maybe consider buying me a coffee. </p>
 <p  align="center" >
 <a href="https://www.buymeacoffee.com/chandanpatnaik" target="_blank" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a><p/>
-<p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+<p align="center"> -->
+
+<!-- <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/chandan-patnaik/" alt="Linkedin"><img src="https://skillicons.dev/icons?i=linkedin"  height="30" width="30"></a>&nbsp;&nbsp;
     <a href="mailto:chandanpatnaik81@gmail.com" alt="Contact me"><img src="https://skillicons.dev/icons?i=gmail" height="30" width="30"></a>&nbsp;&nbsp;
-  </p>
-<p align='center'> <img aling='right' src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76119964146e5c07f06f065563bbae75d60b9831fc1c&rid=giphy.gif&ct=g" width="350" /> </p>
+  </p> -->
+<p align='center'> <img aling='right' src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76119964146e5c07f06f065563bbae75d60b9831fc1c&rid=giphy.gif&ct=g" width="450" /> </p>
