@@ -1,4 +1,4 @@
-### <h1>Hi, there <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> I'm Chandan Ku. Patnaik! 
+### <h1>Hi, there <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> I'm Chandan Kumar Patnaik!
 
 <h3 align="center">🚀 Full Stack Web Developer | Open Source 🚀</h3>
 
@@ -8,24 +8,25 @@
  
  <h3> 👨🏻‍💻 About Me </h3>
 
-  - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-  - 💼 &nbsp; I’m currently working on Full Stack Development projects.
-  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
-  - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.
-  - 💬 &nbsp; Ask me about **Technology, Space Science, Black Holes, Psychology, Books.**
-  - ⚡ &nbsp; Fun fact: **The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.**
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 💼 &nbsp; Full Stack Developer crafting seamless experiences.
+- 🌱 &nbsp; Learning advanced Backend Architectures and Frontend Development.
+- ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.
+- 💬 &nbsp; Ask me about **Technology, Space Science, Black Holes, Psychology, Books.**
+- ⚡ &nbsp; Fun fact: **The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.**
 
  <p>
  
 ## <p align="center">I am willing to collaborate as a team player building better code.</p>
 
 ### <h3> 💻 Languages and Tools </h3> </br>
+
 <!-- ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5) -->
 <p align="center">
- <img align="center" src="https://skillicons.dev/icons?i=css,js,typescript,react,nextjs,tailwind,materialui,redux,firebase,nodejs,express" >
+ <img align="center" src="https://skillicons.dev/icons?i=css,js,typescript,react,nextjs,tailwind,materialui,redux,firebase,nodejs,express,mongodb,postgresql" >
 </p>
 <p align="center">
- <img align="center" src="https://skillicons.dev/icons?i=mongodb,prisma,postman,aws,git,github,linux,visualstudio" >
+ <img align="center" src="https://skillicons.dev/icons?i=prisma,postman,aws,docker,npm,yarn,bash,git,github,linux,visualstudio" >
 </p>
 </br></br></br>
 
@@ -42,5 +43,3 @@
     <a href="mailto:chandanpatnaik81@gmail.com" alt="Contact me"><img src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" height="30" width="30"></a>&nbsp;&nbsp;
   </p>
 <p align='center'> <img aling='right' src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76119964146e5c07f06f065563bbae75d60b9831fc1c&rid=giphy.gif&ct=g" width="350" /> </p>
-
-  
