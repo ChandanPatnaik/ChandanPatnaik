@@ -119,11 +119,11 @@ class ChandanPatnaik:
 
 ## Current Focus
 
-Building **production-ready AI features** that seamlessly integrate ML models into real-world applications  
-Architecting **scalable backends** with focus on **maintainability** and **performance**  
-Exploring **LLM fine-tuning** and advanced model integration techniques  
-Automating **DevOps workflows** to streamline deployment and reduce friction  
-Deepening expertise in **distributed systems** and **cloud-native architecture**
+- Building **production-ready AI features** that seamlessly integrate ML models into real-world applications  
+- Architecting **scalable backends** with focus on **maintainability** and **performance**  
+- Exploring **LLM fine-tuning** and advanced model integration techniques  
+- Automating **DevOps workflows** to streamline deployment and reduce friction  
+- Deepening expertise in **distributed systems** and **cloud-native architecture**
 
 <br>
 
