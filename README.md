@@ -3,7 +3,7 @@
   
   # Hi there, I'm Chandan Kumar Patnaik! 👋
   
-  ### Software Engineer | AI & Backend Architecture Specialist
+  ### Software Engineer | Building AI-Driven Applications, Modern Frontends & Scalable Microservices
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandan-patnaik/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandanpatnaik81@gmail.com)
