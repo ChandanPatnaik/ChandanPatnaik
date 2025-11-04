@@ -1,44 +1,140 @@
-### <h1>Hi, there I'm Chandan Kumar Patnaik!
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" width="400" />
+  
+  # Hi there, I'm Chandan Kumar Patnaik! 👋
+  
+  ### 🚀 Software Engineer | AI & Backend Architecture Specialist
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandan-patnaik/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandanpatnaik81@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandanpatnaik)
+</div>
 
-<h3 align="center">🚀 Full Stack Web Developer | Open Source 🚀</h3>
+---
 
-<img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
- 
- <p aling='center'>
- 
- <h3> 👨🏻‍💻 About Me </h3>
+## 👨‍💻 About Me
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Full Stack Developer crafting seamless experiences.
-- 🌱 &nbsp; Learning advanced Backend Architectures and Frontend Development.
-- ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.
-- 💬 &nbsp; Ask me about **Technology, Space Science, Black Holes, Psychology, Books.**
-- ⚡ &nbsp; Fun fact: **The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.**
+I'm a software engineer who thrives on **building scalable, production-ready systems** that solve real problems. My expertise lies in crafting **clean, maintainable backend architectures** and **integrating AI capabilities** into practical applications.
 
- <p>
- 
-## <p align="center">I am willing to collaborate as a team player building better code.</p>
+```python
+class ChandanPatnaik:
+    def __init__(self):
+        self.role = "Software Engineer"
+        self.focus = ["Backend Architecture", "AI/ML Integration", "System Design"]
+        self.current_work = ["FastAPI microservices", "ML model deployment", "API optimization"]
+        self.passions = ["Clean Code", "Developer Experience", "Automation"]
+        
+    def daily_routine(self):
+        return "Code → Learn → Build → Optimize → Repeat"
+```
 
-### <h3> 💻 Languages and Tools </h3> </br>
+**What drives me:**
+- 💡 Transforming **complex systems** into **elegant, maintainable solutions**
+- 🏗️ Designing **scalable APIs** and **backend architectures** that stand the test of time
+- 🤖 Bridging the gap between **machine learning models** and **production environments**
+- 📚 Constantly **learning** and sharing knowledge with the community
 
-<!-- ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5) -->
-<p align="center">
- <img align="center" src="https://skillicons.dev/icons?i=css,js,typescript,react,nextjs,tailwind,materialui,redux,firebase,nodejs,express,mongodb,postgresql" >
+**Let's talk about:** `Tech innovations` • `Space exploration` • `Psychology` • `System Design` • `Your favorite tech books`
+
+> *Fun fact: The first internet message was supposed to be "LOGIN", but the system crashed after "LO". Sometimes even the simplest things break in the best ways! 🚀*
+
+---
+
+## 🔧 Skills & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 </p>
-<p align="center">
- <img align="center" src="https://skillicons.dev/icons?i=prisma,postman,aws,docker,npm,yarn,bash,git,github,linux,visualstudio" >
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
 </p>
-</br></br></br>
 
-<!-- <p align="center" target="_blank">If you like what i do, maybe consider buying me a coffee. </p>
-<p  align="center" >
-<a href="https://www.buymeacoffee.com/chandanpatnaik" target="_blank" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a><p/>
-<p align="center"> -->
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+</p>
 
-<!-- <i>Let's connect and chat! Open to anything under the sun.</i>
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-00ADD8?style=flat-square&logo=natural-language-processing&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+</p>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/chandan-patnaik/" alt="Linkedin"><img src="https://skillicons.dev/icons?i=linkedin"  height="30" width="30"></a>&nbsp;&nbsp;
-    <a href="mailto:chandanpatnaik81@gmail.com" alt="Contact me"><img src="https://skillicons.dev/icons?i=gmail" height="30" width="30"></a>&nbsp;&nbsp;
-  </p> -->
-<p align='center'> <img aling='right' src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76119964146e5c07f06f065563bbae75d60b9831fc1c&rid=giphy.gif&ct=g" width="450" /> </p>
+<p>
+  <img src="https://img.shields.io/badge/Microservices-2496ED?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/System_Design-FF6B6B?style=flat-square&logo=architecture&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-4A90E2?style=flat-square&logo=clean-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/RESTful_Design-009688?style=flat-square&logo=rest&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVC_Pattern-764ABC?style=flat-square&logo=pattern&logoColor=white" />
+  <img src="https://img.shields.io/badge/Event_Driven-FF6B6B?style=flat-square&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Structures-4A90E2?style=flat-square&logo=data&logoColor=white" />
+  <img src="https://img.shields.io/badge/Algorithms-FF6B6B?style=flat-square&logo=algorithm&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-00D9FF?style=flat-square&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem_Solving-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-764ABC?style=flat-square&logo=object&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design_Patterns-4A90E2?style=flat-square&logo=pattern&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+🚀 Building **production-ready AI features** that seamlessly integrate ML models into real-world applications  
+🏗️ Architecting **scalable backends** with focus on **maintainability** and **performance**  
+🧠 Exploring **LLM fine-tuning** and advanced model integration techniques  
+⚙️ Automating **DevOps workflows** to streamline deployment and reduce friction  
+📖 Deepening expertise in **distributed systems** and **cloud-native architecture**
+
+---
+
+## 🤝 Let's Collaborate!
+
+I'm always excited to work with passionate teams building products that make a **real impact**. Whether it's architecting a **complex backend system**, integrating **AI capabilities**, or optimizing existing infrastructure—I'm up for the challenge!
+
+**Open to:**
+- Backend engineering challenges and **system design** problems
+- **AI/ML integration** and production deployment projects
+- Building **scalable microservices** architectures
+- Technical discussions and **knowledge exchange**
+
+---
